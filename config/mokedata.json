@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Skirt 1",
+    "description": "Best Skirt From Gucci",
+    "brand": "Gucci",
+    "category": "Women",
+    "sizes": "XL",
+    "colors": "Yellow",
+    "price": "100",
+    "quantity": "100"
+  },
+  {
+    "name": "Skirt 2",
+    "description": "Elegant Skirt From Chanel",
+    "brand": "Chanel",
+    "category": "Women",
+    "sizes": "L",
+    "colors": "Black",
+    "price": "120",
+    "quantity": "80"
+  },
+  {
+    "name": "Men's Shirt 1",
+    "description": "Classic Shirt By Ralph Lauren",
+    "brand": "Ralph Lauren",
+    "category": "Men",
+    "sizes": "M",
+    "colors": "White",
+    "price": "80",
+    "quantity": "120"
+  },
+  {
+    "name": "Running Shoes 1",
+    "description": "High-Performance Running Shoes",
+    "brand": "Nike",
+    "category": "Sports",
+    "sizes": "9",
+    "colors": "Blue",
+    "price": "150",
+    "quantity": "50"
+  },
+  {
+    "name": "Handbag 1",
+    "description": "Luxurious Handbag from Louis Vuitton",
+    "brand": "Louis Vuitton",
+    "category": "Accessories",
+    "sizes": "Medium",
+    "colors": "Brown",
+    "price": "200",
+    "quantity": "60"
+  },
+  {
+    "name": "Sunglasses 1",
+    "description": "Stylish Sunglasses by Ray-Ban",
+    "brand": "Ray-Ban",
+    "category": "Accessories",
+    "sizes": "One Size",
+    "colors": "Black",
+    "price": "120",
+    "quantity": "70"
+  },
+  {
+    "name": "Jacket 1",
+    "description": "Warm Winter Jacket",
+    "brand": "North Face",
+    "category": "Men",
+    "sizes": "L",
+    "colors": "Green",
+    "price": "180",
+    "quantity": "40"
+  },
+  {
+    "name": "Dress 1",
+    "description": "Elegant Evening Dress",
+    "brand": "Versace",
+    "category": "Women",
+    "sizes": "S",
+    "colors": "Red",
+    "price": "250",
+    "quantity": "30"
+  },
+  {
+    "name": "Backpack 1",
+    "description": "Durable Backpack for Travel",
+    "brand": "Osprey",
+    "category": "Travel",
+    "sizes": "Large",
+    "colors": "Blue",
+    "price": "120",
+    "quantity": "90"
+  },
+  {
+    "name": "Smartphone 1",
+    "description": "Latest iPhone Model",
+    "brand": "Apple",
+    "category": "Electronics",
+    "sizes": "128GB",
+    "colors": "Space Gray",
+    "price": "1000",
+    "quantity": "20"
+  },
+  {
+    "name": "Jeans 1",
+    "description": "Classic Denim Jeans",
+    "brand": "Levi's",
+    "category": "Men",
+    "sizes": "32x32",
+    "colors": "Indigo",
+    "price": "70",
+    "quantity": "110"
+  },
+  {
+    "name": "Blouse 1",
+    "description": "Chic Blouse by Dior",
+    "brand": "Dior",
+    "category": "Women",
+    "sizes": "M",
+    "colors": "White",
+    "price": "130",
+    "quantity": "60"
+  },
+  {
+    "name": "Watch 1",
+    "description": "Luxury Watch by Rolex",
+    "brand": "Rolex",
+    "category": "Accessories",
+    "sizes": "One Size",
+    "colors": "Gold",
+    "price": "500",
+    "quantity": "25"
+  },
+  {
+    "name": "Hiking Boots 1",
+    "description": "Sturdy Hiking Boots",
+    "brand": "Merrell",
+    "category": "Outdoor",
+    "sizes": "10",
+    "colors": "Brown",
+    "price": "150",
+    "quantity": "45"
+  },
+  {
+    "name": "T-shirt 1",
+    "description": "Comfortable Cotton T-shirt",
+    "brand": "H&M",
+    "category": "Men",
+    "sizes": "L",
+    "colors": "Gray",
+    "price": "25",
+    "quantity": "150"
+  },
+  {
+    "name": "Perfume 1",
+    "description": "Fragrance by Chanel",
+    "brand": "Chanel",
+    "category": "Beauty",
+    "sizes": "50ml",
+    "colors": "Transparent",
+    "price": "80",
+    "quantity": "80"
+  },
+  {
+    "name": "Desk Chair 1",
+    "description": "Ergonomic Office Chair",
+    "brand": "Herman Miller",
+    "category": "Furniture",
+    "sizes": "One Size",
+    "colors": "Black",
+    "price": "300",
+    "quantity": "30"
+  },
+  {
+    "name": "Sweater 1",
+    "description": "Cozy Winter Sweater",
+    "brand": "Gap",
+    "category": "Men",
+    "sizes": "XL",
+    "colors": "Navy Blue",
+    "price": "60",
+    "quantity": "70"
+  },
+  {
+    "name": "Sandals 1",
+    "description": "Stylish Summer Sandals",
+    "brand": "Birkenstock",
+    "category": "Women",
+    "sizes": "8",
+    "colors": "Brown",
+    "price": "90",
+    "quantity": "50"
+  },
+  {
+    "name": "Laptop 1",
+    "description": "Powerful Laptop by Dell",
+    "brand": "Dell",
+    "category": "Electronics",
+    "sizes": "15.6 inch",
+    "colors": "Silver",
+    "price": "800",
+    "quantity": "15"
+  },
+  {
+    "name": "Skirt 3",
+    "description": "Floral Print Skirt",
+    "brand": "Zara",
+    "category": "Women",
+    "sizes": "M",
+    "colors": "Pink",
+    "price": "75",
+    "quantity": "90"
+  },
+  {
+    "name": "Hat 1",
+    "description": "Stylish Fedora Hat",
+    "brand": "Brixton",
+    "category": "Accessories",
+    "sizes": "One Size",
+    "colors": "Brown",
+    "price": "40",
+    "quantity": "120"
+  },
+  {
+    "name": "Suit 1",
+    "description": "Formal Suit by Hugo Boss",
+    "brand": "Hugo Boss",
+    "category": "Men",
+    "sizes": "40R",
+    "colors": "Charcoal",
+    "price": "300",
+    "quantity": "25"
+  },
+  {
+    "name": "Sneakers 1",
+    "description": "Casual Sneakers by Adidas",
+    "brand": "Adidas",
+    "category": "Sports",
+    "sizes": "8",
+    "colors": "White",
+    "price": "90",
+    "quantity": "60"
+  },
+  {
+    "name": "Crossbody Bag 1",
+    "description": "Compact Crossbody Bag",
+    "brand": "Kate Spade",
+    "category": "Accessories",
+    "sizes": "Small",
+    "colors": "Blue",
+    "price": "50",
+    "quantity": "80"
+  },
+  {
+    "name": "Guitar 1",
+    "description": "Acoustic Guitar by Fender",
+    "brand": "Fender",
+    "category": "Music",
+    "sizes": "Full Size",
+    "colors": "Sunburst",
+    "price": "250",
+    "quantity": "15"
+  },
+  {
+    "name": "Shorts 1",
+    "description": "Casual Shorts",
+    "brand": "Old Navy",
+    "category": "Men",
+    "sizes": "34",
+    "colors": "Khaki",
+    "price": "30",
+    "quantity": "100"
+  },
+  {
+    "name": "Purse 1",
+    "description": "Fashionable Purse",
+    "brand": "Michael Kors",
+    "category": "Accessories",
+    "sizes": "Small",
+    "colors": "Beige",
+    "price": "80",
+    "quantity": "50"
+  },
+  {
+    "name": "Duffel Bag 1",
+    "description": "Spacious Duffel Bag",
+    "brand": "Under Armour",
+    "category": "Travel",
+    "sizes": "Large",
+    "colors": "Black",
+    "price": "70",
+    "quantity": "65"
+  },
+  {
+    "name": "Smartwatch 1",
+    "description": "Fitness Smartwatch",
+    "brand": "Fitbit",
+    "category": "Electronics",
+    "sizes": "One Size",
+    "colors": "Rose Gold",
+    "price": "120",
+    "quantity": "40"
+  },
+  {
+    "name": "Candle 1",
+    "description": "Scented Candle",
+    "brand": "Diptyque",
+    "category": "Home",
+    "sizes": "Medium",
+    "colors": "Cypress",
+    "price": "50",
+    "quantity": "75"
+  },
+  {
+    "name": "Polo Shirt 1",
+    "description": "Classic Polo Shirt",
+    "brand": "Lacoste",
+    "category": "Men",
+    "sizes": "L",
+    "colors": "Blue",
+    "price": "60",
+    "quantity": "90"
+  },
+  {
+    "name": "Sweatshirt 1",
+    "description": "Cozy Sweatshirt",
+    "brand": "Champion",
+    "category": "Men",
+    "sizes": "XL",
+    "colors": "Gray",
+    "price": "45",
+    "quantity": "110"
+  },
+  {
+    "name": "Earrings 1",
+    "description": "Elegant Diamond Earrings",
+    "brand": "Tiffany & Co.",
+    "category": "Jewelry",
+    "sizes": "One Size",
+    "colors": "Silver",
+    "price": "200",
+    "quantity": "20"
+  },
+  {
+    "name": "Outdoor Chair 1",
+    "description": "Foldable Outdoor Chair",
+    "brand": "Coleman",
+    "category": "Outdoor",
+    "sizes": "One Size",
+    "colors": "Red",
+    "price": "25",
+    "quantity": "150"
+  },
+  {
+    "name": "Raincoat 1",
+    "description": "Waterproof Raincoat",
+    "brand": "Columbia",
+    "category": "Men",
+    "sizes": "M",
+    "colors": "Yellow",
+    "price": "80",
+    "quantity": "30"
+  },
+  {
+    "name": "Camera 1",
+    "description": "Mirrorless Camera by Sony",
+    "brand": "Sony",
+    "category": "Electronics",
+    "sizes": "Full Frame",
+    "colors": "Black",
+    "price": "1200",
+    "quantity": "10"
+  },
+  {
+    "name": "Ballet Flats 1",
+    "description": "Classic Ballet Flats",
+    "brand": "Tory Burch",
+    "category": "Women",
+    "sizes": "7",
+    "colors": "Beige",
+    "price": "100",
+    "quantity": "50"
+  },
+  {
+    "name": "Hoodie 1",
+    "description": "Casual Hoodie",
+    "brand": "Nike",
+    "category": "Men",
+    "sizes": "L",
+    "colors": "Black",
+    "price": "55",
+    "quantity": "80"
+  },
+  {
+    "name": "Luggage Set 1",
+    "description": "Travel Luggage Set",
+    "brand": "Samsonite",
+    "category": "Travel",
+    "sizes": "3-Piece",
+    "colors": "Navy Blue",
+    "price": "250",
+    "quantity": "15"
+  },
+  {
+    "name": "Sunscreen 1",
+    "description": "SPF 50 Sunscreen",
+    "brand": "Neutrogena",
+    "category": "Beauty",
+    "sizes": "150ml",
+    "colors": "White",
+    "price": "15",
+    "quantity": "200"
+  },
+  {
+    "name": "Rug 1",
+    "description": "Modern Area Rug",
+    "brand": "Ikea",
+    "category": "Home",
+    "sizes": "5x7",
+    "colors": "Geometric",
+    "price": "70",
+    "quantity": "40"
+  },
+  {
+    "name": "Wallet 1",
+    "description": "Leather Wallet",
+    "brand": "Coach",
+    "category": "Accessories",
+    "sizes": "One Size",
+    "colors": "Brown",
+    "price": "90",
+    "quantity": "60"
+  },
+  {
+    "name": "Printed Shirt 1",
+    "description": "Printed Button-down Shirt",
+    "brand": "Zara",
+    "category": "Men",
+    "sizes": "M",
+    "colors": "Floral",
+    "price": "40",
+    "quantity": "120"
+  },
+  {
+    "name": "Water Bottle 1",
+    "description": "Insulated Water Bottle",
+    "brand": "Hydro Flask",
+    "category": "Sports",
+    "sizes": "32oz",
+    "colors": "Stainless Steel",
+    "price": "30",
+    "quantity": "90"
+  },
+  {
+    "name": "Cuff Bracelet 1",
+    "description": "Stylish Cuff Bracelet",
+    "brand": "Pandora",
+    "category": "Jewelry",
+    "sizes": "One Size",
+    "colors": "Rose Gold",
+    "price": "60",
+    "quantity": "50"
+  },
+  {
+    "name": "Trench Coat 1",
+    "description": "Classic Trench Coat",
+    "brand": "Burberry",
+    "category": "Women",
+    "sizes": "S",
+    "colors": "Beige",
+    "price": "300",
+    "quantity": "25"
+  },
+  {
+    "name": "Pajama Set 1",
+    "description": "Comfortable Pajama Set",
+    "brand": "Victoria's Secret",
+    "category": "Women",
+    "sizes": "M",
+    "colors": "Pink",
+    "price": "45",
+    "quantity": "70"
+  },
+  {
+    "name": "Cookware Set 1",
+    "description": "Non-Stick Cookware Set",
+    "brand": "Calphalon",
+    "category": "Kitchen",
+    "sizes": "10-Piece",
+    "colors": "Black",
+    "price": "150",
+    "quantity": "20"
+  },
+  {
+    "name": "Tennis Racket 1",
+    "description": "Pro Tennis Racket",
+    "brand": "Wilson",
+    "category": "Sports",
+    "sizes": "One Size",
+    "colors": "Red",
+    "price": "120",
+    "quantity": "30"
+  },
+  {
+    "name": "Romper 1",
+    "description": "Casual Summer Romper",
+    "brand": "Forever 21",
+    "category": "Women",
+    "sizes": "S",
+    "colors": "Striped",
+    "price": "35",
+    "quantity": "100"
+  }
+]
